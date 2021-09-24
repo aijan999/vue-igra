@@ -1,0 +1,195 @@
+{
+  "playerNames": [
+
+  ],
+  "categories": [
+    {
+      "id": 5412,
+      "title": "prehistoric times",
+      "clues_count": 10
+    },
+    {
+      "id": 11496,
+      "title": "acting families",
+      "clues_count": 5
+    },
+    {
+      "id": 11498,
+      "title": "world city walk",
+      "clues_count": 5
+    }
+  ],
+  "questions": [
+    {
+      "id": 43837,
+      "answer": "1",
+      "question": "Historians generally agree that the development of this separates prehistory from history",
+      "value": 100,
+      "airdate": "2001-03-14T12:00:00.000Z",
+      "created_at": "2014-02-11T23:12:14.011Z",
+      "updated_at": "2014-02-11T23:12:14.011Z",
+      "category_id": 5412,
+      "game_id": null,
+      "invalid_count": null,
+      "category": {
+        "id": 5412,
+        "title": "prehistoric times",
+        "created_at": "2014-02-11T23:12:13.915Z",
+        "updated_at": "2014-02-11T23:12:13.915Z",
+        "clues_count": 10
+      }
+    },
+    {
+      "id": 87635,
+      "answer": "2",
+      "question": "Ryan &Tatum",
+      "value": 100,
+      "airdate": "2009-07-24T12:00:00.000Z",
+      "created_at": "2014-02-14T01:53:18.417Z",
+      "updated_at": "2014-02-14T01:53:18.417Z",
+      "category_id": 11496,
+      "game_id": null,
+      "invalid_count": null,
+      "category": {
+        "id": 11496,
+        "title": "acting families",
+        "created_at": "2014-02-14T01:53:18.198Z",
+        "updated_at": "2014-02-14T01:53:18.198Z",
+        "clues_count": 5
+      }
+    },
+    {
+      "id": 87637,
+      "answer": "Vatican City",
+      "question": "It's the city (also a country) that's home to St. Peter's Basilica",
+      "value": 100,
+      "airdate": "2009-07-24T12:00:00.000Z",
+      "created_at": "2014-02-14T01:53:18.494Z",
+      "updated_at": "2014-02-14T01:53:18.494Z",
+      "category_id": 11498,
+      "game_id": null,
+      "invalid_count": null,
+      "category": {
+        "id": 11498,
+        "title": "world city walk",
+        "created_at": "2014-02-14T01:53:18.236Z",
+        "updated_at": "2014-02-14T01:53:18.236Z",
+        "clues_count": 5
+      }
+    },
+    {
+      "id": 43843,
+      "answer": "Horse",
+      "question": "Eohippus was not an early hippopotamus, but the first one of these animals",
+      "value": 200,
+      "airdate": "2001-03-14T12:00:00.000Z",
+      "created_at": "2014-02-11T23:12:14.164Z",
+      "updated_at": "2014-02-11T23:12:14.164Z",
+      "category_id": 5412,
+      "game_id": null,
+      "invalid_count": null,
+      "category": {
+        "id": 5412,
+        "title": "prehistoric times",
+        "created_at": "2014-02-11T23:12:13.915Z",
+        "updated_at": "2014-02-11T23:12:13.915Z",
+        "clues_count": 10
+      }
+    },
+    {
+      "id": 87641,
+      "answer": "Affleck",
+      "question": "BrothersBen & Casey",
+      "value": 200,
+      "airdate": "2009-07-24T12:00:00.000Z",
+      "created_at": "2014-02-14T01:53:18.650Z",
+      "updated_at": "2014-02-14T01:53:18.650Z",
+      "category_id": 11496,
+      "game_id": null,
+      "invalid_count": null,
+      "category": {
+        "id": 11496,
+        "title": "acting families",
+        "created_at": "2014-02-14T01:53:18.198Z",
+        "updated_at": "2014-02-14T01:53:18.198Z",
+        "clues_count": 5
+      }
+    },
+    {
+      "id": 87643,
+      "answer": "Rabat",
+      "question": "In the 17th century the Corsairs controlled this current capital of Morocco",
+      "value": 200,
+      "airdate": "2009-07-24T12:00:00.000Z",
+      "created_at": "2014-02-14T01:53:18.778Z",
+      "updated_at": "2014-02-14T01:53:18.778Z",
+      "category_id": 11498,
+      "game_id": null,
+      "invalid_count": null,
+      "category": {
+        "id": 11498,
+        "title": "world city walk",
+        "created_at": "2014-02-14T01:53:18.236Z",
+        "updated_at": "2014-02-14T01:53:18.236Z",
+        "clues_count": 5
+      }
+    },
+    {
+      "id": 43849,
+      "answer": "Glaciers",
+      "question": "In the Pleistocene epoch, these gouged at gorges in river valleys; when they melted, rocks & soil were left",
+      "value": 300,
+      "airdate": "2001-03-14T12:00:00.000Z",
+      "created_at": "2014-02-11T23:12:14.291Z",
+      "updated_at": "2014-02-11T23:12:14.291Z",
+      "category_id": 5412,
+      "game_id": null,
+      "invalid_count": null,
+      "category": {
+        "id": 5412,
+        "title": "prehistoric times",
+        "created_at": "2014-02-11T23:12:13.915Z",
+        "updated_at": "2014-02-11T23:12:13.915Z",
+        "clues_count": 10
+      }
+    },
+    {
+      "id": 87647,
+      "answer": "Prinze",
+      "question": "Dad & sonFreddie",
+      "value": 300,
+      "airdate": "2009-07-24T12:00:00.000Z",
+      "created_at": "2014-02-14T01:53:18.945Z",
+      "updated_at": "2014-02-14T01:53:18.945Z",
+      "category_id": 11496,
+      "game_id": null,
+      "invalid_count": null,
+      "category": {
+        "id": 11496,
+        "title": "acting families",
+        "created_at": "2014-02-14T01:53:18.198Z",
+        "updated_at": "2014-02-14T01:53:18.198Z",
+        "clues_count": 5
+      }
+    },
+    {
+      "id": 87649,
+      "answer": "Sapporo",
+      "question": "The first Japanese city to host the Winter Olympics, it's also famous for its beer & its Snow Festival",
+      "value": 300,
+      "airdate": "2009-07-24T12:00:00.000Z",
+      "created_at": "2014-02-14T01:53:19.023Z",
+      "updated_at": "2014-02-14T01:53:19.023Z",
+      "category_id": 11498,
+      "game_id": null,
+      "invalid_count": null,
+      "category": {
+        "id": 11498,
+        "title": "world city walk",
+        "created_at": "2014-02-14T01:53:18.236Z",
+        "updated_at": "2014-02-14T01:53:18.236Z",
+        "clues_count": 5
+      }
+    }
+  ]
+}
